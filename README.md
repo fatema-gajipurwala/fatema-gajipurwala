@@ -7,7 +7,7 @@
 ### 🔹 About Me  
 - 🎓 **Master's in Applied Computer Science** @ Concordia University (Expected 2025)  
 - 🏆 **Gold Medalist** in Information Technology @ DDU  
-- 💼 **Software Developer ** – @ Vffice 
+- 💼 **Software Developer** – @ Vffice 
 - 🎓 **Graduate Teaching Assistant** – @ Concordia University
 
 ### 🔹 Tech Stack  
@@ -17,4 +17,4 @@
 🚀 **Databases & Tools:** MySQL, Postman, Selenium, JIRA, Splunk, Git, WebAPI, RESTful APIs, Microservices  
 
 ### 🔹 Let's Connect!  
-📫 [LinkedIn](https://linkedin.com/in/fatema-gajipurwala) 
+📫 [LinkedIn](https://www.linkedin.com/in/fatemagajipur/) 
